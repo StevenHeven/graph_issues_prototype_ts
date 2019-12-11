@@ -1,0 +1,8 @@
+svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 7.94 7.94">
+  <g stroke-width=".26" transform="translate(0 -289.06)">
+    <circle cx="3.97" cy="293.03" r="3.97" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <text x="3.97" y="293.82" font-family="sans-serif" font-size="2.82" letter-spacing="0" style="line-height:1.25;text-align:center" text-anchor="middle" word-spacing="0">
+      <tspan x="3.97" y="293.82">AND</tspan>
+    </text>
+  </g>
+</svg>

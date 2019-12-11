@@ -1,0 +1,26 @@
+<!doctype html>
+<html class="no-js" lang="fr" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Dossard - Dev</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="static/images/favicon.png" />
+    <link rel="manifest" href="manifest.webapp" />
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+</head>
+<body>
+	<div id="main"></div>
+    <!-- uncomment this for adding service worker
+        <script>
+            if ('serviceWorker' in navigator) {
+                 navigator.serviceWorker
+                    .register('./sw.js')
+                    .then(function() { console.log('Service Worker Registered'); });
+            }
+        </script>
+    -->
+	<script src="../build/app.js"></script>
+</body>
+</html>
